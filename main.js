@@ -1,3 +1,4 @@
+'use strict'
 class Person {
   constructor(room) {
     this.room = room;

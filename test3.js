@@ -1,3 +1,4 @@
+'use strict'
 const fs=require('fs');
 let text=[];
 for(i=0;i<20;i++){
